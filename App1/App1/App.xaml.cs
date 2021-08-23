@@ -11,7 +11,9 @@ using System.IO;
 
 namespace App1
 {
-    public class Camera
+    // приложение называется App1
+    // есть главная страница MainPage с двумя вкладками Page1 и Page2
+    public class Camera 
     {
         public string Id { get; set; }
         public string Name { get; set; }
@@ -21,8 +23,8 @@ namespace App1
     }
     public partial class App : Application
     {
-        public static List<Camera> Cameras;
-        public static string Spisok;
+        public static List<Camera> Cameras; // для хранения найденных камер
+        public static string Spisok; // для хранения готового списка камер в виде строки
 
         
 
@@ -65,7 +67,7 @@ namespace App1
             return My_XmlDoc;
         }
 
-        public static List<Camera> CameraListCreator()
+        public static List<Camera> CameraListCreator() // находит камеры
         {
 
             XDocument Xdoc = GetReply_from_http();
@@ -95,7 +97,7 @@ namespace App1
 
         }
 
-        public static string MakeSpisok()
+        public static string MakeSpisok() //собирает список камер в виде строки
         {
             string temp = "";
             int i = 1;

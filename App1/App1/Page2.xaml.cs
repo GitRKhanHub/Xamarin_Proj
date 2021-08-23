@@ -10,6 +10,10 @@ using Xamarin.Forms.Xaml;
 using System.Net;
 using System.IO;
 
+
+
+
+
 namespace App1
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -19,26 +23,26 @@ namespace App1
         //static ImageSource MySource = image.Source;
         public static ImageSource MySource;
 
+      
+
         public Page2()
         {
             InitializeComponent();
-            
+
+      
+
         }
 
 
-
-
-
-
-
+       
 
         private void Button_Click(object sender, EventArgs e)
         {
             button1.Text = "Получить изображение";
 
             WebClient webClient = new WebClient();
-            string myurl = "http://demo.macroscop.com/mobile?channelid=" +
-                App.Cameras[0].Id + "&oneframeonly=true&login=root";
+            string myurl = "http://demo.macroscop.com/mobile?channelid={" +
+                App.Cameras[0].Id + "}&oneframeonly=true&login=root";
             Stream stream = webClient.OpenRead(myurl);
 
 

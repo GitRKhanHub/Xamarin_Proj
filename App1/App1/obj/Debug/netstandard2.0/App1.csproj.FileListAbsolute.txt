@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\User\Documents\C#. Projects\Macroscop\Xamarin_Proj\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
